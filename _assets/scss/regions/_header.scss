@@ -1,9 +1,9 @@
 //----------------------------------------------
 // Header
-//---------------------------------------------- 
+//----------------------------------------------
 .header {
   @extend %letter-spacing;
-  @extend %box-shadow;
+  // @extend %box-shadow;
 
   position: fixed;
   top: 0;
@@ -21,20 +21,20 @@
   }
 
   background-color: $color-white;
-  border-bottom: $border;
-
-  @media (min-width: $mq-small) {
+  @media (min-width: $font-med) {
     padding: {
-      right: 2em;
-      left: 2em;
+      right: 3em;
+      left: 3em;
     }
   }
+
 
   &__title {
     @extend %font-header;
 
-    font-size: $font-xsmall;
+    font-size: $font-med;
     color: $color-black;
+    font-weight: 500;
   }
 
   &__list {
@@ -42,6 +42,7 @@
 
     display: flex;
     align-items: center;
+    font-size: $font-xsmall;
 
     & > * {
       @extend .header__title;

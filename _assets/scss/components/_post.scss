@@ -1,6 +1,6 @@
 //----------------------------------------------
 // Post
-//---------------------------------------------- 
+//----------------------------------------------
 .post {
 
   // .amp-template & {
@@ -10,7 +10,6 @@
   &__header {
     @extend %text-center;
 
-    border-bottom: $border;
   }
 
   &__date {
@@ -23,11 +22,13 @@
   }
 
   &__img {
-    height: 18em;
+    height: 9em;
+    width: 50%;
+    margin: 0 auto;
     padding: 1em;
 
     @media (min-width: $mq-small) {
-      height: 36em;
+      height: 18em;
       padding: 2em;
     }
 
@@ -51,7 +52,6 @@
   // }
 
   &__content {
-    border-top: $border;
   }
 
   &__social {
@@ -79,7 +79,7 @@
     }
 
     a {
-      font-size: 1.1em;
+      font-size: $font-small;
       color: $color-darkgrey;
     }
   }
@@ -115,7 +115,7 @@
 
 //----------------------------------------------
 // Jekyll
-//---------------------------------------------- 
+//----------------------------------------------
 #markdown {
   display: flex;
   flex-direction: column;
@@ -188,11 +188,11 @@
   p {
     margin-bottom: 1.5rem;
 
-    font-size: 1.1em;
+    font-size: $font-small;
 
-    @media (min-width: $mq-small) {
-      font-size: 1.25em;
-    }
+    // @media (min-width: $mq-small) {
+    //   font-size: $font-med;
+    // }
 
     img {
       margin-bottom: 0;
