@@ -24,8 +24,8 @@ social:
 # disqus: test-apkdzgmqhj
 
 # MailChimp settings
-# mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
-# mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
+mailchimp_action: https://gmail.us3.list-manage.com/subscribe/post?u=615c5a55fda696f16e9e4574f&amp;id=a0bff72384
+mailchimp_input: b_615c5a55fda696f16e9e4574f_a0bff72384
 
 # Author settings
 author:
