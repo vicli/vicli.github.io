@@ -4,10 +4,10 @@
     <title>extraordinary females</title>
     <description>extraordinary women
 </description>
-    <link></link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 09 Jul 2019 16:34:54 -0700</pubDate>
-    <lastBuildDate>Tue, 09 Jul 2019 16:34:54 -0700</lastBuildDate>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 10 Jul 2019 10:53:00 -0700</pubDate>
+    <lastBuildDate>Wed, 10 Jul 2019 10:53:00 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -48,8 +48,8 @@
 &lt;p&gt;Pinterest cold-pressed selfies man bun twee williamsburg irony, art party snackwave tumeric knausgaard marfa polaroid chambray. PBR&amp;amp;B semiotics selvage brooklyn hexagon cray. Edison bulb offal vice, squid humblebrag 90’s kitsch williamsburg chicharrones austin. Poke 3 wolf moon selfies banh mi farm-to-table raclette. +1 roof party polaroid williamsburg, chicharrones retro bicycle rights portland literally selfies selvage lyft single-origin coffee aesthetic kale chips. Blog yr la croix four loko beard. Gentrify 8-bit keytar, fam kombucha poke quinoa green juice schlitz coloring book.&lt;/p&gt;
 </description>
         <pubDate>Mon, 23 Oct 2017 00:00:00 -0700</pubDate>
-        <link>/2017/10/23/polaroid-williamsburg/</link>
-        <guid isPermaLink="true">/2017/10/23/polaroid-williamsburg/</guid>
+        <link>http://localhost:4000/2017/10/23/polaroid-williamsburg/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/23/polaroid-williamsburg/</guid>
         
         <category>Dummy Text</category>
         
@@ -87,8 +87,8 @@
 &lt;p&gt;Banh mi snackwave tilde shoreditch fam truffaut dreamcatcher bitters authentic. Dreamcatcher hella +1 schlitz, fixie hexagon selvage. Live-edge listicle schlitz, squid art party gluten-free skateboard 90’s put a bird on it. Austin four loko street art typewriter, artisan fixie lumbersexual 8-bit vexillologist. Yuccie jianbing asymmetrical humblebrag retro roof party messenger bag tilde quinoa. Flexitarian hella aesthetic neutra lyft copper mug typewriter gluten-free lumbersexual synth pour-over. Cold-pressed butcher portland banjo tote bag raw denim. Occupy butcher cardigan, +1 before they sold out next level tumblr VHS. Hexagon before they sold out cliche godard skateboard ramps poutine franzen thundercats 8-bit pitchfork jean shorts bitters gochujang banh mi. Man braid iPhone humblebrag YOLO. Vinyl man bun cronut tumblr migas quinoa plaid ugh selfies. Chartreuse letterpress trust fund glossier waistcoat +1 pabst four loko taxidermy skateboard. Ennui unicorn poutine photo booth iceland mumblecore cronut banjo VHS keffiyeh irony next level brooklyn schlitz gastropub. Jean shorts tilde glossier, activated charcoal wayfarers vegan occupy forage squid +1 yuccie.&lt;/p&gt;
 </description>
         <pubDate>Sun, 22 Oct 2017 00:00:00 -0700</pubDate>
-        <link>/2017/10/22/coloring-book/</link>
-        <guid isPermaLink="true">/2017/10/22/coloring-book/</guid>
+        <link>http://localhost:4000/2017/10/22/coloring-book/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/22/coloring-book/</guid>
         
         <category>Squid</category>
         
@@ -130,8 +130,8 @@
 &lt;p&gt;Subway tile iceland banh mi pickled air plant. Literally YOLO viral, photo booth hell of semiotics polaroid shabby chic cornhole iPhone hashtag kombucha leggings. Schlitz yuccie affogato hashtag succulents flexitarian, you probably haven’t heard of them chartreuse adaptogen. Meggings sustainable ennui, kinfolk tbh vinyl normcore kale chips edison bulb cray woke air plant swag. Neutra cardigan palo santo whatever.&lt;/p&gt;
 </description>
         <pubDate>Sat, 21 Oct 2017 00:00:00 -0700</pubDate>
-        <link>/2017/10/21/flannel-distillery-asymmetrical/</link>
-        <guid isPermaLink="true">/2017/10/21/flannel-distillery-asymmetrical/</guid>
+        <link>http://localhost:4000/2017/10/21/flannel-distillery-asymmetrical/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/21/flannel-distillery-asymmetrical/</guid>
         
         <category>Dummy Text</category>
         
@@ -190,8 +190,8 @@
 &lt;p&gt;PBR&amp;amp;B semiotics selvage brooklyn hexagon cray. Edison bulb offal vice, squid humblebrag 90’s kitsch williamsburg chicharrones austin. Poke 3 wolf moon selfies banh mi farm-to-table raclette. +1 roof party polaroid williamsburg, chicharrones retro bicycle rights portland literally selfies selvage lyft single-origin coffee aesthetic kale chips. Blog yr la croix four loko beard. Gentrify 8-bit keytar, fam kombucha poke quinoa green juice schlitz coloring book.&lt;/p&gt;
 </description>
         <pubDate>Fri, 20 Oct 2017 00:00:00 -0700</pubDate>
-        <link>/2017/10/20/roof-party/</link>
-        <guid isPermaLink="true">/2017/10/20/roof-party/</guid>
+        <link>http://localhost:4000/2017/10/20/roof-party/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/20/roof-party/</guid>
         
         <category>Squid</category>
         
@@ -219,8 +219,8 @@
 &lt;p&gt;Chambray distillery twee fanny pack typewriter humblebrag, raw denim pok pok poutine authentic art party cold-pressed VHS. Twee readymade literally VHS, craft beer farm-to-table yuccie food truck XOXO organic listicle single-origin coffee DIY. Umami palo santo godard kombucha.&lt;/p&gt;
 </description>
         <pubDate>Thu, 19 Oct 2017 00:00:00 -0700</pubDate>
-        <link>/2017/10/19/waistcoat-tote-bag-pickled/</link>
-        <guid isPermaLink="true">/2017/10/19/waistcoat-tote-bag-pickled/</guid>
+        <link>http://localhost:4000/2017/10/19/waistcoat-tote-bag-pickled/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/19/waistcoat-tote-bag-pickled/</guid>
         
         <category>Dummy Text</category>
         
@@ -249,8 +249,8 @@
 &lt;p&gt;Pinterest meditation raclette, hella roof party whatever hashtag godard. Intelligentsia brunch migas next level flannel. DIY affogato chillwave ethical kombucha schlitz. Wayfarers synth plaid tbh green juice iPhone twee coloring book master cleanse activated charcoal ramps williamsburg whatever cronut. Humblebrag kitsch dreamcatcher normcore freegan swag try-hard. Distillery cred palo santo squid. Wolf ramps cred iceland. Vaporware brooklyn hexagon, fam irony pour-over yuccie. Meh drinking vinegar poutine, chia sriracha pinterest bespoke palo santo kinfolk PBR&amp;amp;B lyft pabst.&lt;/p&gt;
 </description>
         <pubDate>Wed, 18 Oct 2017 00:00:00 -0700</pubDate>
-        <link>/2017/10/18/blue-bottle/</link>
-        <guid isPermaLink="true">/2017/10/18/blue-bottle/</guid>
+        <link>http://localhost:4000/2017/10/18/blue-bottle/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/18/blue-bottle/</guid>
         
         <category>Squid</category>
         
